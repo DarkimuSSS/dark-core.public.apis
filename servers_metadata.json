@@ -1,0 +1,121 @@
+{
+  "servers": [
+    {
+      "id": "10",
+      "name": "OneBlock",
+      "gameSubDir": "OneBlock",
+      "gameMode": "PVE",
+      "wipeDate": "15.09.2026",
+      "isPopular": true,
+      "wipeBadge": null,
+      "updateUrl": "https://mcskill.net",
+      "description": "OneBlock - это необычный формат выживания, где всё развитие начинается с одного блока. Прокачивайте генератор, открывайте новые ресурсы и материалы, развивайте свой остров и осваивайте большое количество разнообразных модов. Собственные механики, переработанная прогрессия, множество квестов, уникальные локации, данжи и боссы делают привычный OneBlock значительно насыщеннее и позволяют по-новому взглянуть на этот формат игры.",
+      "modifications": [
+        "Advanced Solar Panels",
+        "AE2 GTNH - Meta Edition",
+        "AE2 Stuff",
+        "AE2FC GTNH",
+        "Avaritia",
+        "Baubles",
+        "Botania",
+        "Botania++",
+        "BotaniaVisualizer",
+        "Build Craft",
+        "BuildCraft Compat",
+        "Carpenter's Blocks",
+        "Chisel"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "HiTech",
+      "gameSubDir": "HiTech",
+      "gameMode": "PVE",
+      "wipeDate": "01.09.2026",
+      "isPopular": true,
+      "wipeBadge": null,
+      "updateUrl": "https://mcskill.net",
+      "description": "HiTech - классический индустриальный сервер на базе IndustrialCraft 2, Applied Energistics 2, Thermal Expansion и множество технологических аддонов.",
+      "modifications": [
+        "IndustrialCraft 2 Experimental",
+        "Applied Energistics 2",
+        "Thermal Expansion",
+        "Forestry",
+        "BuildCraft",
+        "Advanced Solar Panels",
+        "Gravitation Suite"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "TechnoMagic",
+      "gameSubDir": "TechnoMagic",
+      "gameMode": "PVE/PVP",
+      "wipeDate": "10.08.2026",
+      "isPopular": true,
+      "wipeBadge": null,
+      "updateUrl": "https://mcskill.net",
+      "description": "TechnoMagic объединяет невероятный технический прогресс с древней магией. Постройте ядерный реактор и освойте заклинания Thaumcraft и Botania!",
+      "modifications": [
+        "IndustrialCraft 2",
+        "Thaumcraft 4",
+        "Botania",
+        "Applied Energistics 2",
+        "Thermal Expansion",
+        "Blood Magic",
+        "Avaritia"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Industrial",
+      "gameSubDir": "Industrial",
+      "gameMode": "PVE",
+      "wipeDate": "20.09.2026",
+      "isPopular": false,
+      "wipeBadge": null,
+      "updateUrl": "https://mcskill.net",
+      "description": "Industrial - чистый технологический сервер с фокусом на автоматизацию, заводы и выработку энергии.",
+      "modifications": [
+        "IndustrialCraft 2",
+        "Applied Energistics 2",
+        "BuildCraft",
+        "Thermal Dynamics"
+      ]
+    },
+    {
+      "id": "99",
+      "name": "FrozenTech",
+      "gameSubDir": "FrozenTech",
+      "gameMode": "PVE",
+      "wipeDate": "05.10.2026",
+      "isPopular": false,
+      "wipeBadge": "ВАЙП",
+      "updateUrl": "https://mcskill.net",
+      "description": "FrozenTech - сервер с уникальной зимней атмосферой, кастомными механизмы сурового выживания и новейшими индустриальными модами.",
+      "modifications": [
+        "IndustrialCraft 2",
+        "Thermal Expansion",
+        "ColdSurvival",
+        "Advanced Solar Panels"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Cobblemon",
+      "gameSubDir": "Cobblemon_1211",
+      "gameMode": "PVE",
+      "wipeDate": "25.09.2026",
+      "isPopular": false,
+      "wipeBadge": null,
+      "updateUrl": "https://mcskill.net",
+      "description": "Cobblemon на версии 1.21.1 - открытый мир с покемонами, ловлей, тренировками и сражениями в современной графике.",
+      "modifications": [
+        "Cobblemon",
+        "Waystones",
+        "JourneyMap",
+        "Sophisticated Backpacks"
+      ]
+    }
+  ]
+}
